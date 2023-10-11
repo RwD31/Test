@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite1" time="13.126" tests="2" failures="0" errors="0">
+   <testsuite name="Test Suite1" tests="2" failures="0" errors="0" time="13.126" skipped="0" timestamp="2023-07-07 15:01:37" hostname="LENOVO - DESKTOP-VNCT3MF.mshome.net" id="Test Suites/Test Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\LENOVO\\Katalon Studio\\Example-Api\\Reports\\20230707_150117\\Test Suite1\\20230707_150117"/>
+         <property name="logFiles" value="C:\\Users\\LENOVO\\Katalon Studio\\Example-Api\\Reports\\20230707_150117\\Test Suite1\\20230707_150117\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="LENOVO - DESKTOP-VNCT3MF.mshome.net"/>
+         <property name="hostAddress" value="172.27.32.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="9.263" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[2023-07-07 15:01:39 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+2023-07-07 15:01:40 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Get-ListUser")): Send request successfully
+
+2023-07-07 15:01:47 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\Katalon Studio\Example-Api\Reports\20230707_150117\Test Suite1\20230707_150117\requests\main\0.har
+
+2023-07-07 15:01:48 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Post" time="2.433" classname="Test Cases/Post" status="PASSED">
+         <system-out><![CDATA[2023-07-07 15:01:48 - [TEST_CASE][PASSED] - Test Cases/Post: Test Cases/Post
+
+2023-07-07 15:01:49 - [TEST_STEP][PASSED] - sendRequest(findTestObject("Post-Create")): Send request successfully
+
+2023-07-07 15:01:50 - [MESSAGE][INFO] - HAR: C:\Users\LENOVO\Katalon Studio\Example-Api\Reports\20230707_150117\Test Suite1\20230707_150117\requests\main\1.har
+
+2023-07-07 15:01:50 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-07 15:01:37 - [TEST_SUITE][PASSED] - Test Suite1: Test Cases/Post]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
