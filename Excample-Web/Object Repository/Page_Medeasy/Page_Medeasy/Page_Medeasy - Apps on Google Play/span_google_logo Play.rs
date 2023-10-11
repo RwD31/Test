@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_google_logo Play</name>
+   <tag></tag>
+   <elementGuidId>a89ef548-5ed8-4b4e-93f8-73fe00f6289e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//c-wiz[@id='kO001e']/header/nav/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>44d3559d-e1f6-41cc-b5d2-99875ddb3488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a5521521-a835-47ac-b171-a95da1120f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>google_logo Play</value>
+      <webElementGuid>0ddd96a5-51ff-48be-a24b-a110a9d55714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kO001e&quot;)/header[@class=&quot;S3WLMd&quot;]/nav[@class=&quot;oPjgQb&quot;]/a[@class=&quot;f0UV3d&quot;]/span[1]</value>
+      <webElementGuid>3f1bfef9-2e4e-4108-a6f8-5124610b30c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//c-wiz[@id='kO001e']/header/nav/a/span</value>
+      <webElementGuid>34f129b7-f25b-4326-9909-6519914b57c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Games'])[1]/preceding::span[1]</value>
+      <webElementGuid>891dd34a-2d2e-4933-baaa-0962d7ae4986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apps'])[1]/preceding::span[6]</value>
+      <webElementGuid>784f14fc-2e77-48af-825c-3da9173c156c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='google_logo Play']/parent::*</value>
+      <webElementGuid>16bf7216-65e7-4aea-8830-c3918341bf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>9f5e2d40-0014-4579-8203-c4f94c56dc63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'google_logo Play' or . = 'google_logo Play')]</value>
+      <webElementGuid>af899ec5-4261-4073-b3cc-e36e5dad2f95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

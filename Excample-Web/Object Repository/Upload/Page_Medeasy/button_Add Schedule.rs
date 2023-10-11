@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Schedule</name>
+   <tag></tag>
+   <elementGuidId>400eb575-d8b9-454a-a36e-dbdc09a38e34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-ghost</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1b3332f1-c55e-416a-8ced-e1a2cb487365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7faf675-db41-4178-8ff7-59249beaaab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-ghost</value>
+      <webElementGuid>5942f9f9-6f3f-4a6f-afcb-b57df3ef8253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Schedule</value>
+      <webElementGuid>d040bb0f-4df5-4f5b-97c2-50297b3bc7f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout min-w-screen min-h-screen&quot;]/main[@class=&quot;ant-layout-content bg-gray-10&quot;]/div[@class=&quot;webapp-content-layout&quot;]/div[@class=&quot;webapp-content&quot;]/div[@class=&quot;schedule-screen&quot;]/div[@class=&quot;header-schedule&quot;]/button[@class=&quot;ant-btn ant-btn-ghost&quot;]</value>
+      <webElementGuid>9ddab07f-958e-47fd-893a-3f7c52eb0302</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>1348abe0-58ab-42dd-a348-992b7dc55ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div[2]/div/div/button</value>
+      <webElementGuid>710d44ce-ce2f-4ba3-8e98-720f8253baea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[2]/following::button[1]</value>
+      <webElementGuid>3a8addf5-1267-4fbb-85e6-83fe885ee00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1.7.20'])[1]/following::button[1]</value>
+      <webElementGuid>95e66c57-e2a8-4239-8275-6266e3f64c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[1]/preceding::button[1]</value>
+      <webElementGuid>0c005b4e-95ca-408f-8c90-1bdb3abe01af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>de25095c-75a3-4430-bf28-57af56ac8ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Schedule' or . = 'Add Schedule')]</value>
+      <webElementGuid>6e46a418-dcd0-4163-83d8-cb3d53136301</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS-1,Chrome 114.0.0.0,,,2023-07-07 14:42:27,2023-07-07 14:43:19,51.916s,ERROR
+,,,,,,,
+Test Cases/Auth-1,Chrome 114.0.0.0,,,2023-07-07 14:42:28,2023-07-07 14:42:39,10.539s,ERROR
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-07 14:42:30,2023-07-07 14:42:38,7.814s,PASSED
+"maximizeWindow("""")",Chrome 114.0.0.0,,,2023-07-07 14:42:38,2023-07-07 14:42:39,0.927s,ERROR
+,,,,,,,
+Test Cases/Login1,Chrome 114.0.0.0,,,2023-07-07 14:42:39,2023-07-07 14:43:19,40.257s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-07 14:42:40,2023-07-07 14:42:59,18.949s,PASSED
+maximizeWindow(),Chrome 114.0.0.0,,,2023-07-07 14:42:59,2023-07-07 14:43:00,0.405s,PASSED
+"navigateToUrl(""https://medeasy-web-staging.qbit.co.id/"")",Chrome 114.0.0.0,,,2023-07-07 14:43:00,2023-07-07 14:43:09,9.238s,PASSED
+"click(findTestObject(""Object Repository/Page_Medeasy/button_Sign In""))",Chrome 114.0.0.0,,,2023-07-07 14:43:09,2023-07-07 14:43:10,1.414s,PASSED
+"click(findTestObject(""Object Repository/Page_Medeasy/button_Sign in as Doctor""))",Chrome 114.0.0.0,,,2023-07-07 14:43:10,2023-07-07 14:43:12,1.040s,PASSED
+"setText(findTestObject(""Object Repository/Page_Medeasy/input_Input Phone Number and we will send t_c2aaf5""), ""1234567891"")",Chrome 114.0.0.0,,,2023-07-07 14:43:12,2023-07-07 14:43:13,1.465s,PASSED
+"click(findTestObject(""Object Repository/Page_Medeasy/button_Next""))",Chrome 114.0.0.0,,,2023-07-07 14:43:13,2023-07-07 14:43:14,0.740s,PASSED
+"click(findTestObject(""Object Repository/Page_Medeasy/button_Confirm""))",Chrome 114.0.0.0,,,2023-07-07 14:43:14,2023-07-07 14:43:15,0.964s,PASSED
+"click(findTestObject(""Object Repository/Page_Medeasy/p_Hi, Reza W Daknantya""))",Chrome 114.0.0.0,,,2023-07-07 14:43:15,2023-07-07 14:43:18,2.933s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-07 14:43:18,2023-07-07 14:43:19,1.412s,PASSED

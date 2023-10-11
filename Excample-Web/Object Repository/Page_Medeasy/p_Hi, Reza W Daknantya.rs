@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Hi, Reza W Daknantya</name>
+   <tag></tag>
+   <elementGuidId>055a6fc2-2715-49d2-b8df-9b11812c525b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-brKeYL.kDFZIg.ant-dropdown-trigger.ant-dropdown-open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/div/div[2]/button/span/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6d07e1ac-f965-4da6-b12e-cf2087ad2f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-brKeYL kDFZIg ant-dropdown-trigger ant-dropdown-open</value>
+      <webElementGuid>8a8ffe41-c334-49b1-a997-c22ee76a446f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hi, Reza W Daknantya</value>
+      <webElementGuid>4cd83cf5-2259-4724-99eb-1d7c40207f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center right-header&quot;]/div[@class=&quot;ant-space-item&quot;]/button[@class=&quot;ant-btn ant-btn-text flex items-center&quot;]/span[1]/p[@class=&quot;sc-brKeYL kDFZIg ant-dropdown-trigger ant-dropdown-open&quot;]</value>
+      <webElementGuid>46f8bc43-9735-44b7-802e-45753ba19497</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div[2]/button/span/p</value>
+      <webElementGuid>8ab2ce09-07a3-48ff-823f-c29b43a421ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application'])[1]/following::p[1]</value>
+      <webElementGuid>9644cae8-0181-44f5-86fd-8560c5477052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lend a Hand'])[1]/following::p[1]</value>
+      <webElementGuid>f4183be6-16ac-462c-811a-71b624fefd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1.7.15'])[1]/preceding::p[18]</value>
+      <webElementGuid>d44266f1-7290-4c3e-bfe2-a91f388f95af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Detail'])[1]/preceding::p[18]</value>
+      <webElementGuid>a857671f-8ae3-471a-ba31-356cc6f03819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hi,']/parent::*</value>
+      <webElementGuid>df8df08b-d9fe-4ea4-a24a-142a0ae84899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4936eea7-4cfe-4805-96d0-a28059f47616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Hi, Reza W Daknantya' or . = 'Hi, Reza W Daknantya')]</value>
+      <webElementGuid>f8333e13-8648-417e-b1c1-21b078f4f50b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

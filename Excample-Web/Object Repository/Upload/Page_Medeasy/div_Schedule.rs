@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Schedule</name>
+   <tag></tag>
+   <elementGuidId>cf7faf32-04f1-4c15-81f7-e08fa169787e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div/div/div/div/div/a[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>267e71a7-1e8a-49ab-bf31-0424cd37c4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hIqOWS kKiMBo</value>
+      <webElementGuid>6d42972f-116e-4899-af28-b0cbb765915b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Schedule</value>
+      <webElementGuid>675840c5-3395-4102-9d34-4f30718bc6ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout min-w-screen min-h-screen&quot;]/main[@class=&quot;ant-layout-content bg-gray-10&quot;]/div[@class=&quot;webapp-content-layout&quot;]/div[@class=&quot;sc-hAtEyd gKMnWa px-3 py-6 h-fit sticky top-5&quot;]/div[@class=&quot;sc-fmSAUk hnwjAE&quot;]/div[@class=&quot;sc-fGFwAa dNAMly&quot;]/div[@class=&quot;sc-blLsxD cYanZs&quot;]/div[@class=&quot;sc-dKfzgJ itWQwx&quot;]/a[2]/div[@class=&quot;sc-hIqOWS kKiMBo&quot;]</value>
+      <webElementGuid>9c1a2e0b-2dc9-4d41-a935-13facb1e5a0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div/div/div/div/div/a[2]/div</value>
+      <webElementGuid>40578350-bc08-469f-b1c6-f817da6a5347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application'])[1]/following::div[13]</value>
+      <webElementGuid>901814a7-cac2-439f-94b9-7ffb10dd6bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lend a Hand'])[1]/following::div[13]</value>
+      <webElementGuid>c2a69b1a-879e-4940-a9ce-ec73d1cc011d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1.7.20'])[1]/preceding::div[18]</value>
+      <webElementGuid>80311e49-c2a3-4f86-9670-a35b7139f867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Detail'])[1]/preceding::div[19]</value>
+      <webElementGuid>3b207363-3974-4bb1-ad84-9ee9748eb900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>aa0448bb-a25f-469f-bfa6-0d8e0cf33f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Schedule' or . = 'Schedule')]</value>
+      <webElementGuid>44814889-3f31-4247-ad49-158481fa3377</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in as Doctor</name>
+   <tag></tag>
+   <elementGuidId>c1e7708f-4cc7-4fe5-9b08-5ada74cdf024</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[4]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>67300355-3bf4-4110-95ba-0a5daee6184e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in as Doctor</value>
+      <webElementGuid>869fdbbd-1d51-4979-aeb9-3504a3e4854f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal sc-gLDzan cBFrqM&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;ant-row ant-row-space-evenly&quot;]/div[@class=&quot;ant-col ant-col-12&quot;]/div[@class=&quot;ant-space ant-space-horizontal ant-space-align-center sc-eDDNvR fjcneC&quot;]/div[@class=&quot;ant-space-item&quot;]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-primary&quot;]/span[1]</value>
+      <webElementGuid>81d8b3a8-8099-40ee-b6e2-106820d2865a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/button/span</value>
+      <webElementGuid>4a7c9a78-fe2f-406b-b4ee-e3efb09a648d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign in as Doctor' or . = 'Sign in as Doctor')]</value>
+      <webElementGuid>692824f9-8a20-4c0f-bfdc-fd5089337b58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_6</name>
+   <tag></tag>
+   <elementGuidId>e599e72b-8650-4ee2-884d-955742e3e5ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-picker-cell.ant-picker-cell-in-view.ant-picker-cell-today > div.ant-picker-cell-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b34bbca4-ccf1-4b35-97be-76b5b488e2fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-picker-cell-inner</value>
+      <webElementGuid>bfd04b15-1895-4606-b584-59df493350a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>85c7b839-74c5-4422-8248-18c90f4f3f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[1]/div[@class=&quot;ant-picker-dropdown ant-picker-dropdown-placement-bottomLeft&quot;]/div[@class=&quot;ant-picker-panel-container&quot;]/div[@class=&quot;ant-picker-panel&quot;]/div[@class=&quot;ant-picker-date-panel&quot;]/div[@class=&quot;ant-picker-body&quot;]/table[@class=&quot;ant-picker-content&quot;]/tbody[1]/tr[1]/td[@class=&quot;ant-picker-cell ant-picker-cell-in-view ant-picker-cell-today&quot;]/div[@class=&quot;ant-picker-cell-inner&quot;]</value>
+      <webElementGuid>a5210c23-62f1-4b4e-8142-9d440a2966a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[6]</value>
+      <webElementGuid>753d81e0-3cbb-4f7e-ba7e-3dddf78c6d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::div[6]</value>
+      <webElementGuid>1ad86c41-1348-46bf-8ecf-15dbc1f907a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::div[37]</value>
+      <webElementGuid>12fd772f-e670-492b-8207-0f59323e9202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='6']/parent::*</value>
+      <webElementGuid>6aa40676-651e-421a-a780-927032529916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div</value>
+      <webElementGuid>7ef56a12-40b0-449c-b09b-e531a1eef692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '6' or . = '6')]</value>
+      <webElementGuid>947cf7e7-69c4-4554-9973-2695d66eac46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

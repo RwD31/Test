@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload Signature</name>
+   <tag></tag>
+   <elementGuidId>1fd98626-0e78-4e29-b4c4-ad0561e5e57d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.ant-btn-background-ghost.ant-btn-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dc9a3df3-ec48-4a97-8337-6dd5a4a3263b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b6724019-2e14-42ef-8702-edc01644b013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-primary ant-btn-background-ghost ant-btn-block</value>
+      <webElementGuid>77674eb8-d9af-43bc-b888-de6f1c4318ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Signature</value>
+      <webElementGuid>4751c399-7a44-4fd4-86c9-698af02f3cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout min-w-screen min-h-screen&quot;]/main[@class=&quot;ant-layout-content bg-gray-10&quot;]/div[@class=&quot;webapp-content-layout&quot;]/div[@class=&quot;webapp-content&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/div[3]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col&quot;]/form[@class=&quot;ant-form ant-form-vertical sc-bVDfoq cIioSF&quot;]/div[@class=&quot;ant-form-item&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-upload-picture-card-wrapper sc-rZqKh lavuZU&quot;]/div[@class=&quot;ant-upload-list ant-upload-list-picture-card&quot;]/div[@class=&quot;ant-upload ant-upload-select ant-upload-select-picture-card&quot;]/span[@class=&quot;ant-upload&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-background-ghost ant-btn-block&quot;]</value>
+      <webElementGuid>7c51ecfc-6ae3-4c73-950d-92478f36c3da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>60f390a9-7e28-4a7d-bc86-d1fff63a6c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div[2]/div/div/div[3]/div[7]/div[2]/form/div[2]/div/div[2]/div/div/span/div/div/span/button</value>
+      <webElementGuid>b45f9f9c-4482-4de7-92d9-3a42389b1ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you have entered your signature, your signature will appear here.'])[1]/following::button[1]</value>
+      <webElementGuid>1329365f-60fa-4255-b5f1-adfbd5f7bfb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signature Empty'])[1]/following::button[1]</value>
+      <webElementGuid>874782d6-7b20-474a-9696-154a8205633f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Changes'])[1]/preceding::button[1]</value>
+      <webElementGuid>eed0bf19-dc11-475c-99c7-cf1d6e5d64bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>2cb8ac0a-f6a0-4dc2-aeaa-87c20c790444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Upload Signature' or . = 'Upload Signature')]</value>
+      <webElementGuid>8aef416d-8fad-4331-b42c-4ff3aebf0127</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

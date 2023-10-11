@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>872335d0-3286-4918-90ae-d58092b1519b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7ae51a3-9fb9-44b8-b40e-8ac70dbcda76</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['1asdas', 'asdaf', 1234567891]</defaultValue>
+      <description></description>
+      <id>b7ae51a3-9fb9-44b8-b40e-8ac70dbcda76</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>

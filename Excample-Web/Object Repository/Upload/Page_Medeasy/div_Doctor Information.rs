@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Doctor Information</name>
+   <tag></tag>
+   <elementGuidId>4d372e4b-97e7-4eb2-bff7-e6d85efd665c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div[2]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-row.ant-row-middle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd05d730-29f5-4c2e-8c9d-fee271eb1cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-row ant-row-middle</value>
+      <webElementGuid>71fe5362-374f-4aa3-836f-6479ca72ba4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctor Information</value>
+      <webElementGuid>279df684-e8dc-4b75-9975-d8c5ccead929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout min-w-screen min-h-screen&quot;]/main[@class=&quot;ant-layout-content bg-gray-10&quot;]/div[@class=&quot;webapp-content-layout&quot;]/div[@class=&quot;webapp-content&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-row ant-row-middle&quot;]</value>
+      <webElementGuid>50795426-06d0-4cd8-b5ec-5e9f619af9ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div[2]/div/div/div[3]</value>
+      <webElementGuid>2b83f260-fbfc-4174-bea8-aabebd772f36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal'])[1]/following::div[1]</value>
+      <webElementGuid>4b68598e-86a1-4a83-8b9f-867c278c620a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting'])[3]/following::div[3]</value>
+      <webElementGuid>a6ff6ae0-9131-412c-8ff3-602c97ad7675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinics and Practice Settings'])[1]/preceding::div[2]</value>
+      <webElementGuid>77fbd5c0-2877-42e9-bad5-1af96a9f057d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>c884644a-87f7-4ef3-a3c2-716c87e26316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Doctor Information' or . = 'Doctor Information')]</value>
+      <webElementGuid>a65d2017-fe8e-4963-899e-01b300b1de93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

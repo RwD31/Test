@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Setting</name>
+   <tag></tag>
+   <elementGuidId>6eea78e6-b0b1-4293-8dad-1dd63b0c289c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/main/div/div/div/div/div[5]/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d460e733-41f8-4269-84c4-c869d7d72192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-hIqOWS kKiMBo</value>
+      <webElementGuid>9cd93c3c-478a-413e-a706-ba4a9ce462a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setting</value>
+      <webElementGuid>ef65c404-0532-4c95-9121-fb04a43be34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout min-w-screen min-h-screen&quot;]/main[@class=&quot;ant-layout-content bg-gray-10&quot;]/div[@class=&quot;webapp-content-layout&quot;]/div[@class=&quot;sc-hAtEyd gKMnWa px-3 py-6 h-fit sticky top-5&quot;]/div[@class=&quot;sc-fmSAUk hnwjAE&quot;]/div[@class=&quot;sc-fGFwAa dNAMly&quot;]/div[@class=&quot;sc-blLsxD cYanZs&quot;]/div[@class=&quot;sc-dKfzgJ itWQwx&quot;]/a[1]/div[@class=&quot;sc-hIqOWS kKiMBo&quot;]</value>
+      <webElementGuid>cd40c723-2365-4ad7-a988-ad0baaf47c44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/main/div/div/div/div/div[5]/div/a/div</value>
+      <webElementGuid>28886e28-38c9-4ac2-9498-d3b6786f9557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application'])[1]/following::div[30]</value>
+      <webElementGuid>ac4e4055-18bc-48ef-ae87-b17f3c02ef4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lend a Hand'])[1]/following::div[30]</value>
+      <webElementGuid>5a91b781-304b-488c-85a5-97592a97f552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v1.7.19'])[1]/preceding::div[1]</value>
+      <webElementGuid>e406c18c-9452-41f5-9355-1618888f2c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Detail'])[1]/preceding::div[2]</value>
+      <webElementGuid>287dd963-7b73-4e76-a075-92370f7871ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/div</value>
+      <webElementGuid>bb2dada3-d4e6-4946-9b19-72b300512576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Setting' or . = 'Setting')]</value>
+      <webElementGuid>0d27fd00-ca86-4b42-8b93-6f2705f5f35e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
